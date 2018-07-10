@@ -1,2 +1,3 @@
 # EE-Complexity18
-Contains code material for the Complexity Economics course @Exploring Economics Summer Academy 2018
+
+This repo contains the code material for the Complexity Economics course at the Exploring Economics Summer Academy 2018 in Neudietendorf.
