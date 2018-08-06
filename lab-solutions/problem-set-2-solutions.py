@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Solutions for the second problem set at the Exploring Economics Summer School 2018
+Solutions for the first problem set at the Exploring Economics Summer School 2018
 
 @author: Claudius Graebner
 @email: claudius@claudius-graebner.com
